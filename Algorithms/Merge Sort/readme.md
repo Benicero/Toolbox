@@ -16,3 +16,6 @@ If r > l:
 
 # Merge the two halves sorted in step 2 and 3:
      Call merge(arr, l, m, r)
+```
+# Runtime Analysis
+## O(nlog(n))
