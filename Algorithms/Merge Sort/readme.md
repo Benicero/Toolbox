@@ -1,4 +1,4 @@
-
+'''
 MergeSort(arr[], l,  r)
 If r > l:
      # Find the middle point to divide the array into two halves:  
